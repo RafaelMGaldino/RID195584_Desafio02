@@ -45,7 +45,8 @@ Adaptação para diferentes dispositivos
 Instalação
 Clone este repositório:
 bash
-git clone https://github.com/seu-usuario/the-dev-news.git
+git clone https://github.com/RafaelMG/RID195584_Desafio02
+
 Navegue até o diretório do projeto:
 bash
 cd the-dev-news
@@ -59,14 +60,23 @@ the-dev-news/
 ├── style.css           # Estilos da aplicação
 
 ├── img/                # Diretório de imagens
+
 │   ├── how-dev.svg     # Banner principal
+
 │   ├── postsOne.svg    # Imagem de post popular
+
 │   ├── postsTwo.svg    # Imagem de post popular
+
 │   ├── postsThre.svg   # Imagem de post popular
+
 │   ├── postsFour.svg   # Imagem de post recente
+
 │   ├── postsFive.svg   # Imagem de post recente
+
 │   ├── postsSix.svg    # Imagem de post recente
+
 │   └── postsSeven.svg  # Imagem de post recente
+
 └── README.md           # Documentação
 
 *💻 Detalhes Técnicos*
